@@ -1,0 +1,27 @@
+
+
+#quo{
+	position: absolute;
+	bottom: 50%;
+	right: 50%;
+	width: 35em;
+	height: 20em;
+	margin-right: -17.5em;
+	margin-bottom: -10em;
+	background-color: lightgrey;
+}
+
+
+ //* @keyframes animatedBackground {
+	from { background-color: red; }
+	to { background-color: green; }
+}
+
+body	{ 
+	width: 560px; 
+	height: 400px; 
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+
+	animation: animatedBackground 40s linear infinite;
+} *//
